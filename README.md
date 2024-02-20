@@ -1,1 +1,1 @@
-# kotlinMiniApp
+# QuickShopCreator
